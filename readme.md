@@ -1,6 +1,6 @@
 # IronHack Delivery - Product Analysis 
 
-**Objective:** Demonstrate data analysis, SQL skills, and experimental design expertise through real-world scenarios for delivery services.
+Analyzed IronHack Delivery’s data to optimize KPIs, streamline chat interactions, test pricing strategies, and explore price discrepancies. SQL, A/B testing, and EDA in action for real-world delivery insights.
 
 ![image](https://github.com/user-attachments/assets/ba587790-577a-45bd-b242-e41a98e483f4)
 
