@@ -1,8 +1,8 @@
 # IronHack Delivery - Product Analysis 
 
-![image](https://github.com/user-attachments/assets/2dc231e6-f427-41e8-8afc-298311fea3f0)
-
 **Objective:** Demonstrate data analysis, SQL skills, and experimental design expertise through real-world scenarios for delivery services.
+
+![image](https://github.com/user-attachments/assets/92142c6c-f4fd-460e-be3a-f48987a5b573)
 
 ---
 
