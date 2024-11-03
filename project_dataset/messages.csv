@@ -1,0 +1,5 @@
+"tipo_app_remitente";"id_cliente";"de_id";"para_id";"chat_iniciado_por_mensaje";"id_pedido";"etapa_pedido";"id_repartidor";"hora_envio_mensaje"
+"Cliente iOS";17071099;17071099;16293039;0;59528555;"RECOGIENDO";16293039;"2019-08-19 08:01:47"
+"Repartidor iOS";17071099;16293039;17071099;0;59528555;"LLEGANDO";16293039;"2019-08-19 08:01:04"
+"Cliente iOS";17071099;17071099;16293039;0;59528555;"RECOGIENDO";16293039;"2019-08-19 08:00:04"
+"Repartidor Android";12874122;18325287;12874122;1;59528038;"ENTREGA_EN_DIRECCIÓN";18325287;"2019-08-19 07:59:33"
