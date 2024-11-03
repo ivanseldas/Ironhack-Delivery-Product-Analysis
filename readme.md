@@ -1,6 +1,6 @@
-![IronHack Delivery Logo](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+# IronHack Delivery - Product Analysis 
 
-# IronHack Delivery - Product Analysis Technical Challenge
+![image](https://github.com/user-attachments/assets/2dc231e6-f427-41e8-8afc-298311fea3f0)
 
 **Objective:** Demonstrate data analysis, SQL skills, and experimental design expertise through real-world scenarios for delivery services.
 
