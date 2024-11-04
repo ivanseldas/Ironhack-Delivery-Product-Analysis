@@ -13,7 +13,10 @@ Analyzed IronHack Delivery’s data to optimize KPIs, streamline chat interactio
 - **KPIs Selected:**
   1. **Percentage of Orders Cancelled**
   2. **Average Purchase Total Price per Order**
-  3. **Percentage of Orders with a Discrepancy Between `products_total` and `purchase_total_price`**
+
+  3. ![image](https://github.com/user-attachments/assets/c41b8dd0-13ff-4e2f-8a82-cc3d22be8dbd)
+
+  4. **Percentage of Orders with a Discrepancy Between `products_total` and `purchase_total_price`**
 
 ---
 
