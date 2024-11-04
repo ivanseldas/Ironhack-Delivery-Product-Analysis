@@ -21,7 +21,7 @@ Analyzed IronHack Delivery’s data to optimize KPIs, streamline chat interactio
 
   4. **Percentage of Orders with a Discrepancy Between `products_total` and `purchase_total_price`**
 
-![price_discrepancy](https://github.com/user-attachments/assets/c02c3720-525a-471a-8fcd-6a3710ed0a7c)
+![price_discrepancy](https://github.com/user-attachments/assets/5ae4bd80-d6ac-490b-bb82-064cef199e9b)
 
 
 ---
