@@ -11,11 +11,18 @@ Analyzed IronHack Delivery’s data to optimize KPIs, streamline chat interactio
 **Objective:** Identify the top three KPIs for IronHack Delivery.
 
 - **KPIs Selected:**
-  1. **Customer Retention Rate**
-  2. **Average Delivery Time**
-  3. **Order Accuracy**
+  1. **Percentage of Orders Cancelled**
 
-- **Approach:** Explained each KPI's importance, estimated values based on assumptions, and proposed improvement strategies.
+![orders_cancelled](https://github.com/user-attachments/assets/374bc9de-643f-4b5a-91d8-7913a41af7b7)
+
+  2. **Average Purchase Total Price per Order**
+
+![average_purcharse](https://github.com/user-attachments/assets/a0030b5d-2f1c-47d0-8a7b-58daa370e237)
+
+  3. **Percentage of Orders with a Discrepancy Between `products_total` and `purchase_total_price`**
+
+![price_discrepancy](https://github.com/user-attachments/assets/8317f656-6171-4b0a-88d5-0defb9c7b0a5)
+
 
 ---
 
